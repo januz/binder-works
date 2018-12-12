@@ -1,4 +1,4 @@
-FROM rocker/tidyverse:3.5.0
+FROM rocker/geospatial:3.5.0
 
 ## binder configuration
 ## from: https://github.com/rocker-org/binder/blob/master/3.5.0/Dockerfile
